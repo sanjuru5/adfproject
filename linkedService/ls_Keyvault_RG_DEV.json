@@ -1,0 +1,11 @@
+{
+	"name": "ls_Keyvault_RG_DEV",
+	"properties": {
+		"description": "RG-DEV-ADF-KEYVAULT",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://RG-DEV-ADF.vault.azure.net/"
+		}
+	}
+}
